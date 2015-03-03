@@ -1,0 +1,23 @@
+{
+    "email": "julie.luu@berkeley.edu", 
+    "github_name": "julieluu", 
+    "grades": {
+        "hw1": {
+            "note": "", 
+            "hash": "8828b309f267497d4ae5596d406f0bf1794c4478", 
+            "earned": 0, 
+            "possible": 20, 
+            "penalty": 0, 
+            "parts": {
+                "hw1": {
+                    "possible": 20, 
+                    "earned": 0
+                }
+            }
+        }
+    }, 
+    "login": "julieluu", 
+    "name": "Julie Luu", 
+    "status": "enrolled", 
+    "url": "git@github.com:julieluu/stat133.git"
+}
