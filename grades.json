@@ -14,10 +14,23 @@
                     "earned": 0
                 }
             }
+        }, 
+        "hw4": {
+            "note": "", 
+            "hash": "5fcdb4513eef4efd121d7cbb4a5b44fbc2c25c4a", 
+            "earned": 0, 
+            "possible": 20, 
+            "penalty": 0, 
+            "parts": {
+                "hw4": {
+                    "possible": 20, 
+                    "earned": 0
+                }
+            }
         }
     }, 
     "login": "julieluu", 
     "name": "Julie Luu", 
-    "status": "enrolled", 
+    "status": "unenrolled", 
     "url": "git@github.com:julieluu/stat133.git"
 }
